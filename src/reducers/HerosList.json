@@ -1,0 +1,37 @@
+[
+	{
+		"key": 1,
+		"name": "Steve Jobs",
+		"details": "Apple",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqne8vKhBytsQoAdWI9XlJQZ-7yPbeFHS7e6F4qZwz0IaqPzAg",
+		"url": "https://en.wikipedia.org/wiki/Steve_Jobs"
+	},
+	{
+		"key": 2,
+		"name": "Jack Ma",
+		"details": "Alibaba",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6bx5g5pG2SGVEdbK8UjGVLVPGLK5ZMVo9Y9Q44P2gv7HjFWA",
+		"url": "https://en.wikipedia.org/wiki/Jack_Ma"
+	},
+	{
+		"key": 3,
+		"name": "Elon Musk",
+		"details": "Space X, Tesla",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpYV8OYEN0LnOWqewPFH5tbVI6qCvYWI93X-QUYet4lE7OHov",
+		"url": "https://en.wikipedia.org/wiki/Elon_Musk"
+	},
+	{
+		"key": 4,
+		"name": "Jeff Bezos",
+		"details": "Amazon",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzt4GMKSQ116fZRZLlBsLYA3eXHYRI8q2OMfX4ONhHuDHMLmbN",
+		"url": "https://en.wikipedia.org/wiki/Jeff_Bezos"
+	},
+	{
+		"key": 5,
+		"name": "Lee Kwan Yew",
+		"details": "Singapore",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaXbE0ap3qGE5dQRt-T0lg-epSC0QR0VkwpX0mBi6eqnM958k9",
+		"url": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew"
+	}
+]
