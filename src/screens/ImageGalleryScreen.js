@@ -15,10 +15,10 @@ class ImageGalleryScreen extends Component {
 				<View style={styles.containerStyle}>
 					<Image style={styles.imageStyle} source={require('../images/elonmusk.jpg')} />
 					<Image style={styles.imageStyle} source={require('../images/jeffbezos.jpg')} />
-					<Image style={styles.imageStyle} source={require('../images/leekwanyew.jpg')} />
 				</View>
 				<View style={styles.containerStyle}>
 					<Image style={styles.imageStyle} source={require('../images/leekwanyew.jpg')} />
+					<Image style={styles.imageStyle} source={require('../images/aynrand.jpg')} />
 				</View>
 			</ScrollView>
 		)

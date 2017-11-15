@@ -33,5 +33,12 @@
 		"details": "Singapore",
 		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaXbE0ap3qGE5dQRt-T0lg-epSC0QR0VkwpX0mBi6eqnM958k9",
 		"url": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew"
+	},
+	{
+		"key": 6,
+		"name": "Ayn Rand",
+		"details": "The Fountainhead, Atlas Shrugged",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5jPCzKcj49_JFU1ylICPsDvGNuzHLlzbUimptC1t4EgiL8td",
+		"url": "https://en.wikipedia.org/wiki/Ayn_Rand"
 	}
 ]

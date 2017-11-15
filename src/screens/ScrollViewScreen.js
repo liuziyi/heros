@@ -11,7 +11,10 @@ class ScrollViewScreen extends Component {
 	renderHeros(){
 		return this.props.heros.map((hero,i) => {
 			return (
-				<ScrollViewListItem key={hero.key} hero={hero}/>
+				<ScrollViewListItem 
+					key={hero.key} 
+					hero={hero}
+				/>
 			)
 		})
 
